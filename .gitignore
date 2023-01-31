@@ -1,0 +1,7 @@
+# Ignore everything in same directory as the .gitignore file
+/*
+
+# Except these files
+!.gitignore
+!LICENSE
+!README.md
