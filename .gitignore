@@ -5,3 +5,5 @@
 !.gitignore
 !LICENSE
 !README.md
+!delete_users.ipynb
+!delete_users.py
